@@ -1,4 +1,3 @@
 # Demo_test
 
-Aight!!
-You just read this file
+Just some drafts
