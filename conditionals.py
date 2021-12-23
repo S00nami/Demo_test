@@ -15,7 +15,7 @@ elif userReply == "envelope":
     print("We have many envelope sizes to choose from.")
     
 elif userReply == "copy":
-    copies = input("How many copies would you like? (Enter a number) ")
+    copies = input("How many copies would you like to make? (Enter a number) ")
     print("Here are {} copies.".format(copies))
 
 else:
