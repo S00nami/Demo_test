@@ -1,4 +1,4 @@
-my_str= "Hello "
+my_str= "Hi "
 name= input("What is your name?").capitalize()
 weather= input("What is the weather like today? ").lower()
 
